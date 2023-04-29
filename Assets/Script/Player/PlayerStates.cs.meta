@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c36858ad8901ec445a1c0d48c8f0c455
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - deadthChunkParticle: {instanceID: 0}
+  - deadthBloodParticle: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
